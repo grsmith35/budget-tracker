@@ -20,7 +20,7 @@ Once in the app you can add in a short description of the line item, then the am
 ## Tests
 No tests were built for this project
 ## Screenshots
-![Budget screenshot]()
+![Budget screenshot](https://github.com/grsmith35/budget-tracker/blob/894f6ddfeb575d25bb021db5bb348a46237cb35b/public/assets/budget.png)
 ## Links
 * [Github repository](https://github.com/grsmith35/budget-tracker)
 * [Deployed Link](https://budgettrakerrsmith.herokuapp.com/)
