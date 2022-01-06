@@ -32,7 +32,7 @@ function saveRecord(record) {
 function uploadItem() {
     const transaction = db.transaction(['new_line_item'], 'readwrite');
 
-    const itemObjectStore = transaction.objectStore('new_pizza');
+    const itemObjectStore = transaction.objectStore('new_line_item');
 
     const getAll = itemObjectStore.getAll();
 
